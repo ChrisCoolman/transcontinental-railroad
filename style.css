@@ -1,0 +1,29 @@
+/* Custom styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    color: #007bff;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+.card-img-top {
+    max-height: 200px;
+    object-fit: cover;
+}
